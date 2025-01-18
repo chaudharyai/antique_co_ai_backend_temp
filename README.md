@@ -1,7 +1,3 @@
-Here's a powerful and poetic README for your project, with a touch of creativity:
-
----
-
 # 🏺 **Antique Co AI Backend Solution** 🏺  
 _"Where tradition meets technology, and payments flow seamlessly."_
 
