@@ -2,8 +2,7 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Use this section to tell people about which versions of your project are currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -14,8 +13,14 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security vulnerability, please follow these steps to report it:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+1. Email us directly at **[inquiries@agm.support](mailto:inquiries@agm.support)**.  
+2. Alternatively, you can visit the **AGM Portal Group** for security-related queries or support:  
+   👉 [https://agmmportalgroup.com](https://agmmportalgroup.com)
+
+### Response Time  
+- We typically acknowledge reports within **2 business days**.  
+- Our team will provide regular updates on the resolution process.
+
+Thank you for helping us maintain the security and integrity of our project!
