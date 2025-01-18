@@ -17,7 +17,7 @@ If you discover a security vulnerability, please follow these steps to report it
 
 1. Email us directly at **[inquiries@agm.support](mailto:inquiries@agm.support)**.  
 2. Alternatively, you can visit the **AGM Portal Group** for security-related queries or support:  
-   👉 [https://agmmportalgroup.com](https://agmmportalgroup.com)
+   👉 [https://agmportalgroup.com](https://chaudharyai.com)
 
 ### Response Time  
 - We typically acknowledge reports within **2 business days**.  
